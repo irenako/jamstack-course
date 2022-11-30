@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "@storyblok/nuxt": "^4.6.0",
-    "local-ssl-proxy": "^1.3.0"
+    "local-ssl-proxy": "^1.2.3"
   }
 }
